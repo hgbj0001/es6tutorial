@@ -177,7 +177,7 @@ incCounter();
 console.log(counter); // 4
 ```
 
-上面代码说明，ES6 模块输入的变量`counter`是活的，完全反应其所在模块`lib.js`内部的变化。
+上面代码说明，ES6 模块输入的变量`counter`是活的，完全反映其所在模块`lib.js`内部的变化。
 
 再举一个出现在`export`一节中的例子。
 
